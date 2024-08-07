@@ -22,12 +22,13 @@ De plus, cela m'a ouvert la voie pour occuper l'un des postes de débutant suiva
 •	Analyste en cyberdéfense
 
 Projets	Compétences/Connaissances acquises
-1 - Sécurité du réseau
-TCP/IP model, cisco packet tracer 
+
+1 - Sécurité du réseau  TCP/IP model, cisco packet tracer 
 2- WINDOWS, python 	Command 
 
 
 Outils
+
 Plusieurs outils que j'utilise :
 •	PYTHON
 •	CISCO PACKET TRACER 
