@@ -24,6 +24,7 @@ De plus, cela m'a ouvert la voie pour occuper l'un des postes de débutant suiva
 Projets	Compétences/Connaissances acquises
 
 1 - Sécurité du réseau  TCP/IP model, cisco packet tracer 
+
 2- WINDOWS, python 	Command 
 
 
