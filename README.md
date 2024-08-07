@@ -7,18 +7,30 @@ J’ai effectué des formations en réseau tcp/ip, python via open Classroom, je
 
 Cybersécurité portfolio
 
-Je développe en ce moment même mes compétences dans ce milieu.
-•	Programmation pour les tâches de cybersécurité
+Je développe en ce moment même mes compétences dans ce milieu:
+
+•Programmation pour les tâches de cybersécurité
+
 •	Cadres et contrôles qui éclairent les opérations de sécurité
+
 •	Outils SIEM pour la cybersécurité
+
 •	Détecter et répondre aux incidents à l'aide d'un système de détection d'intrusion
+
 •	Effectuer la capture et l'analyse des paquets
+
 De plus, cela m'a ouvert la voie pour occuper l'un des postes de débutant suivants :
+
 •	Analyste en cybersécurité
+
 •	Analyste de sécurité
+
 •	Analyste SOC
+
 •	Analyste en sécurité de l'information
+
 •	Analyste en sécurité informatique
+
 •	Analyste en cyberdéfense
 
 Projets	Compétences/Connaissances acquises
@@ -31,10 +43,14 @@ Projets	Compétences/Connaissances acquises
 Outils
 
 Plusieurs outils que j'utilise :
-•	PYTHON
-•	CISCO PACKET TRACER 
-•	Windows
-•	Google Workspace
+
+	PYTHON
+ 
+	CISCO PACKET TRACER 
+ 
+  Windows
+  
+	Google Workspace
 
 Ce portfolio est forcément en maintenance constante
 
