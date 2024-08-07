@@ -9,7 +9,8 @@ Cybersécurité portfolio
 
 Je développe en ce moment même mes compétences dans ce milieu:
 
-•Programmation pour les tâches de cybersécurité
+
+•	Programmation pour les tâches de cybersécurité
 
 •	Cadres et contrôles qui éclairent les opérations de sécurité
 
@@ -19,7 +20,9 @@ Je développe en ce moment même mes compétences dans ce milieu:
 
 •	Effectuer la capture et l'analyse des paquets
 
+
 De plus, cela m'a ouvert la voie pour occuper l'un des postes de débutant suivants :
+
 
 •	Analyste en cybersécurité
 
@@ -33,7 +36,9 @@ De plus, cela m'a ouvert la voie pour occuper l'un des postes de débutant suiva
 
 •	Analyste en cyberdéfense
 
+
 Projets	Compétences/Connaissances acquises
+
 
 1 - Sécurité du réseau  TCP/IP model, cisco packet tracer 
 
